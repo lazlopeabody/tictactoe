@@ -10,6 +10,4 @@ Code ACademy TicTacToe Game.
         --> if the user choice is good, 
             --> check if the user has won
                 --> if so then 
-
     --> chng the player
-    

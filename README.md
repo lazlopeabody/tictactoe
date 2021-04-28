@@ -1,5 +1,6 @@
 # tictactoe
-Code ACademy TicTacToe Game. 
+Code ACademy TicTacToe Game.
+
 --> print the board for the user
 
 --> ask and recieve the user for there choice == userInput
